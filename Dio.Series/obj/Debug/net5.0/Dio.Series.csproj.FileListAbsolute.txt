@@ -1,0 +1,16 @@
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\Rômulo Maciel\source\repos\Dio.Series\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
